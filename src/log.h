@@ -1,0 +1,1 @@
+#define MY_LOG_FORMAT(format) "%u ms: " format "\r\n", millis()

@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\marlin2.0\\Marlin_official"
+		},
+		{
+			"name": "Marlin-Duplicator-6",
+			"path": "..\\..\\marlin2.0\\Marlin-Duplicator-6"
+		},
+		{
+			"name": "Humidifier",
+			"path": ".."
+		},
+		{
+			"name": "led_matrix",
+			"path": "..\\..\\..\\Users\\marti\\Documents\\PlatformIO\\Projects\\led_matrix"
+		},
+		{
+			"name": "esp-rgb-led-matrix",
+			"path": "..\\..\\esp-rgb-led-matrix"
+		},
+		{
+			"name": "self_balancing_rbt",
+			"path": "..\\..\\self_balanving_robot\\self_balancing_rbt"
+		},
+		{
+			"name": "Wall-e",
+			"path": "..\\..\\Wall-e"
+		},
+		{
+			"name": "kitchen_tiebe",
+			"path": "..\\..\\..\\Users\\marti\\Documents\\PlatformIO\\Projects\\kitchen_tiebe"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"initializer_list": "cpp",
+			"*.tcc": "cpp",
+			"functional": "cpp",
+			"istream": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"string_view": "cpp",
+			"regex": "cpp"
+		}
+	}
+}

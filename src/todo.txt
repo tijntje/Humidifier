@@ -1,0 +1,11 @@
+- Add Hysteresis on setpoint
+- Add Wifi
+    - Send data to Grafana
+    - Remote control
+- Save Setpoint to eeprom
+- Build top case
+- Bug: Disabling while in motor active, keeps motor running
+- Add Water Meter
+- Add auto mode, regarding distance from setpoint
+
+
